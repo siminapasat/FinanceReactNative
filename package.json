@@ -42,7 +42,7 @@
   "devDependencies": {
     "eslint": "^3.6.1",
     "eslint-config-airbnb": "^12.0.0",
-    "eslint-plugin-flowtype-errors": "^1.4.0",
+    "eslint-plugin-flowtype-errors": "^4.3.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0"
